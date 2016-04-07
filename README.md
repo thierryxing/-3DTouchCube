@@ -1,4 +1,4 @@
--3DTouchCube
+3D Touch Cube
 ============
 
 opengl based cube which can be rotated by gesture and with mirror reflection effect
